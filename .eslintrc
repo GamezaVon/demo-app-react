@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", "tsx", "ts"] }],
+        "react/react-in-jsx-scope": 0
+    }
+}
