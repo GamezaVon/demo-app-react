@@ -1,6 +1,7 @@
 {
+    "parser": "babel-eslint",
     "rules": {
-        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", "tsx", "ts"] }],
+        "react/jsx-filename-extension": [0, { "extensions": [".js", ".jsx", "tsx", "ts", "js"] }],
         "react/react-in-jsx-scope": 0
     }
 }
